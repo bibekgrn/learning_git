@@ -1,2 +1,3 @@
-print("this thing is printing")
-print('i am adding this from feature_branch')
+#this is hans gang
+print(' yo wassup gang!!! ')
+print(' we should be concerned about our nation mann??')
